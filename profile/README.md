@@ -6,7 +6,7 @@
 | # | Αριθμός Μητρώου| Ρόλος | GitHub profile |
 | -- | -- | -- | -- |
 | 1 | inf2021013 | Admin |[nkangno](https://github.com/nkanagno) |
-| 2 | inf2021055 | Admin |[Axileaszervos](https://github.com/Axileaszervos) |
+| 2 | inf2021055 | co-admin |[Axileaszervos](https://github.com/Axileaszervos) |
 | 3 | inf2021112 | Member |[Gkirikos](https://github.com/Gkirikos) |
 | 4 | inf2021084 | Member |[R3try0](https://github.com/R3try0) |
 | 5 | inf2021147 | Member |[PanMour](https://github.com/PanMour) |
