@@ -5,7 +5,7 @@
 *Μέλη της ομάδας:*
 | # | Αριθμός Μητρώου| Ρόλος | GitHub profile |
 | -- | -- | -- | -- |
-| 1 | inf2021013 | Admin |[nkangno](https://github.com/nkanagno) |
+| 1 | inf2021013 | Admin |[nkanagno](https://github.com/nkanagno) |
 | 2 | inf2021055 | Co-Admin |[Axileaszervos](https://github.com/Axileaszervos) |
 | 3 | inf2021112 | Co-Admin |[Gkirikos](https://github.com/Gkirikos) |
 | 4 | inf2021084 | Member |[R3try0](https://github.com/R3try0) |
